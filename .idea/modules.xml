@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/PayMyBuddy-master.iml" filepath="$PROJECT_DIR$/.idea/PayMyBuddy-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PayMyBuddy-master/paymybuddy.iml" filepath="$PROJECT_DIR$/PayMyBuddy-master/paymybuddy.iml" />
+    </modules>
+  </component>
+</project>
